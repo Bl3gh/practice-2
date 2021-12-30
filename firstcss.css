@@ -1,0 +1,35 @@
+element.style {
+  margin-left: 0px;
+  margin-right: 0px;
+  margin-top: 0px;
+}
+div {
+  background-color:white;
+  height: 380px;
+}
+body {
+
+  margin-top: 1px;
+  background-color:aliceblue;
+}
+hr {
+  background-color:black;
+  border-style:solid;
+  height:3px;
+}
+h3 {
+  color:blue;
+  font-family: serif;
+}
+h1 {
+  padding-left: 30px;
+  display: block;
+  margin-block-start: 1px;
+  font-family: sans-serif;
+  font-size: 50px;
+  font-weight: bold;
+}
+img {
+  margin-top: 0px;
+  padding-left: 30px;
+}
